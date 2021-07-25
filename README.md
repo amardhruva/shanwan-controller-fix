@@ -7,6 +7,7 @@ This script requires Python3 and pyusb to be installed.
 
 The Controller presents several interfaces to the system in order to detect the system and expects the system reply with a certain sequence. This script detects the controller and writes the sequence to the controller in order to make the xbox mode to work. This script also enables vibration/rumble on the controllers which support vibration on only xbox mode.
 
-The script has been tested on the following controllers
-
-- ANT Esports GP100 Controller https://antesports.com/
+The script has been tested on the following controllers.
+| Product Name | Website | Working without script? | Working with script? |
+|---|---|---|---|
+| ANT Esports GP100 Controller | https://antesports.com/product/gp100/ | Starts in PS3 mode. Vibration does not work. | Works Flawlessly |
