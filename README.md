@@ -1,4 +1,8 @@
+# DEPRECATION NOTICE.
+Usage of this Script is no longer necessary as the xpad driver should have the SHANWAN support built in now. Install the driver from https://github.com/paroj/xpad and use the controller.
+
 # shanwan-controller-fix
+
 A Fix for SHANWAN based Xbox controllers on Linux Machines.
 
 Based on information on https://steamcommunity.com/sharedfiles/filedetails/?id=1595753315
