@@ -15,3 +15,5 @@ The script has been tested on the following controllers.
 | Product Name | Website | Working without script? | Working with script? |
 |---|---|---|---|
 | ANT Esports GP100 Controller | https://antesports.com/product/gp100/ | Starts in PS3 mode. Vibration does not work. | Works Flawlessly |
+|---|---|---|---|
+| Fantech Revolver GP12 | https://fantech.ph/product/gp12-revolver-2/ | Starts in Android Mode. Triggers, Vibration does not work, Keymapping mismatched | Everything works fine, except vibration |
